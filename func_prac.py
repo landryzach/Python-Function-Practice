@@ -74,3 +74,5 @@ def pascal(n):
 
 pascal(2)
 pascal(5)
+
+#pascal is a little confusing. Had to use the solution to get the code right.
